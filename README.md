@@ -1,5 +1,16 @@
 # EV Charging Network: SQL Query Portfolio
 
+## 中文概览
+
+**项目定位：SQL / 关系型数据查询 / 业务规则验证。** 围绕电动车、充电站、充电事件和优惠券，编写十类查询，回答设施覆盖、车辆充电行为、平均电量、企业关系及收入计算问题。
+
+- **个人贡献**：个人课程项目中的 SQL 查询实现；表结构来自教学材料，不表述为本人独立设计的生产数据库。
+- **SQL 能力**：多表 JOIN、EXISTS/NOT EXISTS、GROUP BY/HAVING、聚合、嵌套子查询及“覆盖全部出口”条件的关系除法。
+- **检查结果**：对照原需求修正 100 kW 边界、完整日期区间和平均值条件；十条修订查询通过合成数据检查，覆盖 NULL、并列最大值、空集合和月份边界等情况。
+- **验证范围**：检查使用 SQLite 验证通用关系逻辑，并非原生 MySQL 8 执行或生产性能测试；保留原版查询以区分提交内容与后续修订。
+
+## English documentation
+
 Ten relational queries over an electric-vehicle charging schema. This individual project demonstrates multi-table joins, anti-joins, aggregation, nested subqueries, manufacturer hierarchies and revenue calculations.
 
 ## Contents
