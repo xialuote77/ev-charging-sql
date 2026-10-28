@@ -1,0 +1,2 @@
+# Include SQL source in GitHub language statistics.
+*.sql linguist-language=SQL linguist-detectable=true
