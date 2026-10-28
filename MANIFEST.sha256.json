@@ -4,7 +4,7 @@
   "checks/check_queries.py": "02d7fa28865b918aae2b0ba8cc109ac92f115604653a6303faafe759f1f7858c",
   "docs/CONTRIBUTIONS.md": "729614de436d250833840a4e35b09d85adea61489815fc72c087f6f34a0a9a12",
   "docs/REVIEW.md": "e51884ca3b72ccccae7ed1087bb361478d143671966298e3a9a9136e7978a406",
-  "README.md": "b4aa6ecd39c1d6909746301574a86ffa49e85d22391e1a7a3835afacdbceca8d",
+  "README.md": "3e8e74bb7770c6659ea406d2efdf4959d91c49dc387fcea3853ad7bb3eb8dbcb",
   "sql/original_queries.sql": "fa2adb864abb672787776119c1cdca82d5e4bb4cde8412acf6d221bbc96c7bf0",
   "sql/reviewed_queries.sql": "ecbb9208038a871fdf5cd7bbe3d7b23f9b6d29ec9eccf52d8cbd46291bfb11de",
   "sql/schema.sql": "a50399b9ec928b74faf4b0a158676a228cbe4c466f1b1b1bc3a64d79a450216e"
